@@ -15,9 +15,7 @@ export default class Game {
 
 
     public play (player: Player, x: number, y: number): boolean {
-        if (!this.board.isEmpty(x, y)) return false
-        this.board.play(player.name, x, y)
-        return true
+        return this.board.play(player.name, x, y)
     }
 
     public isOver (): boolean {
