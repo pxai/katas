@@ -5,7 +5,7 @@
 
 # Some katas
 
-- (src/tictactoe)[src/tictactoe]
+- [src/tictactoe](src/tictactoe)
 
 ## Getting started
 
