@@ -1,32 +1,13 @@
-export default class Board {
-    private _fields: string[][];
+export default interface Board {
 
-    constructor() {
-        this._fields = Array(3).fill([]).map(a => ["", "", ""]);
-    }
+    readonly fields: any[];
 
-    public get fields(): any[] {
-        return this._fields.reduce((fields, row) => fields.concat(row), [] as string[])
-    }
+    play (player: string, x: number, y: number): boolean;
 
-    public play (player: string, x: number, y: number): boolean {
-        if (!this.isEmpty(x, y)) return false
-        this._fields[x][y] = player;
-        return true
-    }
+    isEmpty (x: number, y: number): boolean;
 
-    public isEmpty (x: number, y: number): boolean {
-        return this._fields[x][y] === "";
-    }
+    isOver(): boolean;
 
-    public isOver(): boolean {
-        const allTheSame = (row: string[]) => row.every(r => ["X", "O"].includes(r));
-        const getColumn = (column: number, matrix: string[][]) => matrix.map(row => row[column])
-        for (let i = 0; i < 3; i++) {
-            if (allTheSame(this._fields[i])
-             || allTheSame(getColumn(i, this._fields)))  { return true; }
-        }
-        return false
-    }
+    allTaken(): boolean;
 
 }

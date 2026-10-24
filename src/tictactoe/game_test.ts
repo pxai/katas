@@ -1,3 +1,4 @@
+import Board3 from './board3';
 import Board from './board';
 import Game from './game'
 import Player from './player'
@@ -9,8 +10,14 @@ describe('Game', () => {
 
   beforeEach(() => {
     player1 = new Player("X");
-    player2 = new Player("Y"); 
-    board = new Board();
+    player2 = new Player("Y");
+    board = {
+      fields: Array(9).fill(""),
+      play: jest.fn(() => true),
+      isEmpty: jest.fn(() => true),
+      isOver: jest.fn(() => false),
+      allTaken: jest.fn(() => false)
+    };
   });
 
   it('can be created', () => {
@@ -30,33 +37,32 @@ describe('Game', () => {
 
   it('player puts in position', () => {
     const game = new Game(board, player1, player2)
-    expect(game.board.isEmpty(0, 0)).toBe(true);
 
     expect(game.play(player1, 0, 0)).toBe(true);
-
-    expect(game.board.isEmpty(0, 0)).toBe(false);
+    expect(board.play).toHaveBeenCalledWith("X", 0, 0);
   })
 
-  it('is game over when all fields in a row are taken', () => {
+  it('delegates game-over checks to the board', () => {
     const game = new Game(board, player1, player2);
 
     expect(game.isOver()).toBe(false);
-    game.play(player1, 0, 0)
-    game.play(player1, 0, 1)
-    game.play(player1, 0, 2)
-    expect(game.isOver()).toBe(true);
-    
+    expect(board.isOver).toHaveBeenCalledTimes(1);
   })
 
-  it('is game over when all fields in a column are taken', () => {
-    const game = new Game(board, player1, player2);
+  it('players take turns taking fields until the game is over', () => {
+      const game = new Game(new Board3(), player1, player2);
 
-    expect(game.isOver()).toBe(false);
-    game.play(player1, 0, 0)
-    game.play(player1, 1, 0)
-    game.play(player1, 2, 0)
-    expect(game.isOver()).toBe(true);
-    
+      expect(game.isOver()).toBe(false);
+
+      game.play(player1, 0, 0)
+      game.play(player2, 0, 1)
+      game.play(player1, 0, 2)
+      game.play(player2, 1, 0)
+      game.play(player1, 1, 1)
+      game.play(player2, 1, 2)
+      game.play(player1, 2, 0)
+
+      expect(game.isOver()).toBe(true);
   })
 
 });
