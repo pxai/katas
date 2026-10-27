@@ -3,14 +3,14 @@
   "compileOnSave": true, // currently supported in Visual Studio 2015 with TypeScript 1.8.4 and above, and atom-typescript plugin.
   "compilerOptions": {
     "allowJs": true,
-    "target": "es2019",
+    "target": "es2020",
     "module": "commonjs",
     "moduleResolution": "node",
     "jsx": "react",
     "removeComments": true,
     "preserveConstEnums": true,
     "sourceMap": true,
-    "lib": ["es2019"],
+    "lib": ["es2020"],
     "outDir": "lib",
     "alwaysStrict": true,
     "types": ["node", "jest"]
