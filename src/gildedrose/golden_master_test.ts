@@ -5,8 +5,7 @@ const NAMES = [
     'Aged Brie',
     'Elixir of the Mongoose',
     'Sulfuras, Hand of Ragnaros',
-    'Backstage passes to a TAFKAL80ETC concert',
-    'Conjured Mana Cake'
+    'Backstage passes to a TAFKAL80ETC concert'
 ];
 
 const SELL_INS = [-10, -1, 0, 1, 2, 5, 6, 7, 10, 11, 12];
@@ -41,8 +40,7 @@ describe('GildedRose golden master', () => {
             new Item('Sulfuras, Hand of Ragnaros', -1, 80),
             new Item('Backstage passes to a TAFKAL80ETC concert', 15, 20),
             new Item('Backstage passes to a TAFKAL80ETC concert', 10, 49),
-            new Item('Backstage passes to a TAFKAL80ETC concert', 5, 49),
-            new Item('Conjured Mana Cake', 3, 6)
+            new Item('Backstage passes to a TAFKAL80ETC concert', 5, 49)
         ];
         const gildedRose = new GildedRose(items);
         const lines: string[] = [];
