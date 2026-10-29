@@ -1,0 +1,907 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GildedRose golden master matches the recorded behaviour after a single day 1`] = `
+"+5 Dexterity Vest, -10, 0 -> +5 Dexterity Vest, -11, 0
++5 Dexterity Vest, -10, 1 -> +5 Dexterity Vest, -11, 0
++5 Dexterity Vest, -10, 2 -> +5 Dexterity Vest, -11, 0
++5 Dexterity Vest, -10, 10 -> +5 Dexterity Vest, -11, 8
++5 Dexterity Vest, -10, 48 -> +5 Dexterity Vest, -11, 46
++5 Dexterity Vest, -10, 49 -> +5 Dexterity Vest, -11, 47
++5 Dexterity Vest, -10, 50 -> +5 Dexterity Vest, -11, 48
++5 Dexterity Vest, -10, 80 -> +5 Dexterity Vest, -11, 78
++5 Dexterity Vest, -1, 0 -> +5 Dexterity Vest, -2, 0
++5 Dexterity Vest, -1, 1 -> +5 Dexterity Vest, -2, 0
++5 Dexterity Vest, -1, 2 -> +5 Dexterity Vest, -2, 0
++5 Dexterity Vest, -1, 10 -> +5 Dexterity Vest, -2, 8
++5 Dexterity Vest, -1, 48 -> +5 Dexterity Vest, -2, 46
++5 Dexterity Vest, -1, 49 -> +5 Dexterity Vest, -2, 47
++5 Dexterity Vest, -1, 50 -> +5 Dexterity Vest, -2, 48
++5 Dexterity Vest, -1, 80 -> +5 Dexterity Vest, -2, 78
++5 Dexterity Vest, 0, 0 -> +5 Dexterity Vest, -1, 0
++5 Dexterity Vest, 0, 1 -> +5 Dexterity Vest, -1, 0
++5 Dexterity Vest, 0, 2 -> +5 Dexterity Vest, -1, 0
++5 Dexterity Vest, 0, 10 -> +5 Dexterity Vest, -1, 8
++5 Dexterity Vest, 0, 48 -> +5 Dexterity Vest, -1, 46
++5 Dexterity Vest, 0, 49 -> +5 Dexterity Vest, -1, 47
++5 Dexterity Vest, 0, 50 -> +5 Dexterity Vest, -1, 48
++5 Dexterity Vest, 0, 80 -> +5 Dexterity Vest, -1, 78
++5 Dexterity Vest, 1, 0 -> +5 Dexterity Vest, 0, 0
++5 Dexterity Vest, 1, 1 -> +5 Dexterity Vest, 0, 0
++5 Dexterity Vest, 1, 2 -> +5 Dexterity Vest, 0, 1
++5 Dexterity Vest, 1, 10 -> +5 Dexterity Vest, 0, 9
++5 Dexterity Vest, 1, 48 -> +5 Dexterity Vest, 0, 47
++5 Dexterity Vest, 1, 49 -> +5 Dexterity Vest, 0, 48
++5 Dexterity Vest, 1, 50 -> +5 Dexterity Vest, 0, 49
++5 Dexterity Vest, 1, 80 -> +5 Dexterity Vest, 0, 79
++5 Dexterity Vest, 2, 0 -> +5 Dexterity Vest, 1, 0
++5 Dexterity Vest, 2, 1 -> +5 Dexterity Vest, 1, 0
++5 Dexterity Vest, 2, 2 -> +5 Dexterity Vest, 1, 1
++5 Dexterity Vest, 2, 10 -> +5 Dexterity Vest, 1, 9
++5 Dexterity Vest, 2, 48 -> +5 Dexterity Vest, 1, 47
++5 Dexterity Vest, 2, 49 -> +5 Dexterity Vest, 1, 48
++5 Dexterity Vest, 2, 50 -> +5 Dexterity Vest, 1, 49
++5 Dexterity Vest, 2, 80 -> +5 Dexterity Vest, 1, 79
++5 Dexterity Vest, 5, 0 -> +5 Dexterity Vest, 4, 0
++5 Dexterity Vest, 5, 1 -> +5 Dexterity Vest, 4, 0
++5 Dexterity Vest, 5, 2 -> +5 Dexterity Vest, 4, 1
++5 Dexterity Vest, 5, 10 -> +5 Dexterity Vest, 4, 9
++5 Dexterity Vest, 5, 48 -> +5 Dexterity Vest, 4, 47
++5 Dexterity Vest, 5, 49 -> +5 Dexterity Vest, 4, 48
++5 Dexterity Vest, 5, 50 -> +5 Dexterity Vest, 4, 49
++5 Dexterity Vest, 5, 80 -> +5 Dexterity Vest, 4, 79
++5 Dexterity Vest, 6, 0 -> +5 Dexterity Vest, 5, 0
++5 Dexterity Vest, 6, 1 -> +5 Dexterity Vest, 5, 0
++5 Dexterity Vest, 6, 2 -> +5 Dexterity Vest, 5, 1
++5 Dexterity Vest, 6, 10 -> +5 Dexterity Vest, 5, 9
++5 Dexterity Vest, 6, 48 -> +5 Dexterity Vest, 5, 47
++5 Dexterity Vest, 6, 49 -> +5 Dexterity Vest, 5, 48
++5 Dexterity Vest, 6, 50 -> +5 Dexterity Vest, 5, 49
++5 Dexterity Vest, 6, 80 -> +5 Dexterity Vest, 5, 79
++5 Dexterity Vest, 7, 0 -> +5 Dexterity Vest, 6, 0
++5 Dexterity Vest, 7, 1 -> +5 Dexterity Vest, 6, 0
++5 Dexterity Vest, 7, 2 -> +5 Dexterity Vest, 6, 1
++5 Dexterity Vest, 7, 10 -> +5 Dexterity Vest, 6, 9
++5 Dexterity Vest, 7, 48 -> +5 Dexterity Vest, 6, 47
++5 Dexterity Vest, 7, 49 -> +5 Dexterity Vest, 6, 48
++5 Dexterity Vest, 7, 50 -> +5 Dexterity Vest, 6, 49
++5 Dexterity Vest, 7, 80 -> +5 Dexterity Vest, 6, 79
++5 Dexterity Vest, 10, 0 -> +5 Dexterity Vest, 9, 0
++5 Dexterity Vest, 10, 1 -> +5 Dexterity Vest, 9, 0
++5 Dexterity Vest, 10, 2 -> +5 Dexterity Vest, 9, 1
++5 Dexterity Vest, 10, 10 -> +5 Dexterity Vest, 9, 9
++5 Dexterity Vest, 10, 48 -> +5 Dexterity Vest, 9, 47
++5 Dexterity Vest, 10, 49 -> +5 Dexterity Vest, 9, 48
++5 Dexterity Vest, 10, 50 -> +5 Dexterity Vest, 9, 49
++5 Dexterity Vest, 10, 80 -> +5 Dexterity Vest, 9, 79
++5 Dexterity Vest, 11, 0 -> +5 Dexterity Vest, 10, 0
++5 Dexterity Vest, 11, 1 -> +5 Dexterity Vest, 10, 0
++5 Dexterity Vest, 11, 2 -> +5 Dexterity Vest, 10, 1
++5 Dexterity Vest, 11, 10 -> +5 Dexterity Vest, 10, 9
++5 Dexterity Vest, 11, 48 -> +5 Dexterity Vest, 10, 47
++5 Dexterity Vest, 11, 49 -> +5 Dexterity Vest, 10, 48
++5 Dexterity Vest, 11, 50 -> +5 Dexterity Vest, 10, 49
++5 Dexterity Vest, 11, 80 -> +5 Dexterity Vest, 10, 79
++5 Dexterity Vest, 12, 0 -> +5 Dexterity Vest, 11, 0
++5 Dexterity Vest, 12, 1 -> +5 Dexterity Vest, 11, 0
++5 Dexterity Vest, 12, 2 -> +5 Dexterity Vest, 11, 1
++5 Dexterity Vest, 12, 10 -> +5 Dexterity Vest, 11, 9
++5 Dexterity Vest, 12, 48 -> +5 Dexterity Vest, 11, 47
++5 Dexterity Vest, 12, 49 -> +5 Dexterity Vest, 11, 48
++5 Dexterity Vest, 12, 50 -> +5 Dexterity Vest, 11, 49
++5 Dexterity Vest, 12, 80 -> +5 Dexterity Vest, 11, 79
+Aged Brie, -10, 0 -> Aged Brie, -11, 2
+Aged Brie, -10, 1 -> Aged Brie, -11, 3
+Aged Brie, -10, 2 -> Aged Brie, -11, 4
+Aged Brie, -10, 10 -> Aged Brie, -11, 12
+Aged Brie, -10, 48 -> Aged Brie, -11, 50
+Aged Brie, -10, 49 -> Aged Brie, -11, 50
+Aged Brie, -10, 50 -> Aged Brie, -11, 50
+Aged Brie, -10, 80 -> Aged Brie, -11, 80
+Aged Brie, -1, 0 -> Aged Brie, -2, 2
+Aged Brie, -1, 1 -> Aged Brie, -2, 3
+Aged Brie, -1, 2 -> Aged Brie, -2, 4
+Aged Brie, -1, 10 -> Aged Brie, -2, 12
+Aged Brie, -1, 48 -> Aged Brie, -2, 50
+Aged Brie, -1, 49 -> Aged Brie, -2, 50
+Aged Brie, -1, 50 -> Aged Brie, -2, 50
+Aged Brie, -1, 80 -> Aged Brie, -2, 80
+Aged Brie, 0, 0 -> Aged Brie, -1, 2
+Aged Brie, 0, 1 -> Aged Brie, -1, 3
+Aged Brie, 0, 2 -> Aged Brie, -1, 4
+Aged Brie, 0, 10 -> Aged Brie, -1, 12
+Aged Brie, 0, 48 -> Aged Brie, -1, 50
+Aged Brie, 0, 49 -> Aged Brie, -1, 50
+Aged Brie, 0, 50 -> Aged Brie, -1, 50
+Aged Brie, 0, 80 -> Aged Brie, -1, 80
+Aged Brie, 1, 0 -> Aged Brie, 0, 1
+Aged Brie, 1, 1 -> Aged Brie, 0, 2
+Aged Brie, 1, 2 -> Aged Brie, 0, 3
+Aged Brie, 1, 10 -> Aged Brie, 0, 11
+Aged Brie, 1, 48 -> Aged Brie, 0, 49
+Aged Brie, 1, 49 -> Aged Brie, 0, 50
+Aged Brie, 1, 50 -> Aged Brie, 0, 50
+Aged Brie, 1, 80 -> Aged Brie, 0, 80
+Aged Brie, 2, 0 -> Aged Brie, 1, 1
+Aged Brie, 2, 1 -> Aged Brie, 1, 2
+Aged Brie, 2, 2 -> Aged Brie, 1, 3
+Aged Brie, 2, 10 -> Aged Brie, 1, 11
+Aged Brie, 2, 48 -> Aged Brie, 1, 49
+Aged Brie, 2, 49 -> Aged Brie, 1, 50
+Aged Brie, 2, 50 -> Aged Brie, 1, 50
+Aged Brie, 2, 80 -> Aged Brie, 1, 80
+Aged Brie, 5, 0 -> Aged Brie, 4, 1
+Aged Brie, 5, 1 -> Aged Brie, 4, 2
+Aged Brie, 5, 2 -> Aged Brie, 4, 3
+Aged Brie, 5, 10 -> Aged Brie, 4, 11
+Aged Brie, 5, 48 -> Aged Brie, 4, 49
+Aged Brie, 5, 49 -> Aged Brie, 4, 50
+Aged Brie, 5, 50 -> Aged Brie, 4, 50
+Aged Brie, 5, 80 -> Aged Brie, 4, 80
+Aged Brie, 6, 0 -> Aged Brie, 5, 1
+Aged Brie, 6, 1 -> Aged Brie, 5, 2
+Aged Brie, 6, 2 -> Aged Brie, 5, 3
+Aged Brie, 6, 10 -> Aged Brie, 5, 11
+Aged Brie, 6, 48 -> Aged Brie, 5, 49
+Aged Brie, 6, 49 -> Aged Brie, 5, 50
+Aged Brie, 6, 50 -> Aged Brie, 5, 50
+Aged Brie, 6, 80 -> Aged Brie, 5, 80
+Aged Brie, 7, 0 -> Aged Brie, 6, 1
+Aged Brie, 7, 1 -> Aged Brie, 6, 2
+Aged Brie, 7, 2 -> Aged Brie, 6, 3
+Aged Brie, 7, 10 -> Aged Brie, 6, 11
+Aged Brie, 7, 48 -> Aged Brie, 6, 49
+Aged Brie, 7, 49 -> Aged Brie, 6, 50
+Aged Brie, 7, 50 -> Aged Brie, 6, 50
+Aged Brie, 7, 80 -> Aged Brie, 6, 80
+Aged Brie, 10, 0 -> Aged Brie, 9, 1
+Aged Brie, 10, 1 -> Aged Brie, 9, 2
+Aged Brie, 10, 2 -> Aged Brie, 9, 3
+Aged Brie, 10, 10 -> Aged Brie, 9, 11
+Aged Brie, 10, 48 -> Aged Brie, 9, 49
+Aged Brie, 10, 49 -> Aged Brie, 9, 50
+Aged Brie, 10, 50 -> Aged Brie, 9, 50
+Aged Brie, 10, 80 -> Aged Brie, 9, 80
+Aged Brie, 11, 0 -> Aged Brie, 10, 1
+Aged Brie, 11, 1 -> Aged Brie, 10, 2
+Aged Brie, 11, 2 -> Aged Brie, 10, 3
+Aged Brie, 11, 10 -> Aged Brie, 10, 11
+Aged Brie, 11, 48 -> Aged Brie, 10, 49
+Aged Brie, 11, 49 -> Aged Brie, 10, 50
+Aged Brie, 11, 50 -> Aged Brie, 10, 50
+Aged Brie, 11, 80 -> Aged Brie, 10, 80
+Aged Brie, 12, 0 -> Aged Brie, 11, 1
+Aged Brie, 12, 1 -> Aged Brie, 11, 2
+Aged Brie, 12, 2 -> Aged Brie, 11, 3
+Aged Brie, 12, 10 -> Aged Brie, 11, 11
+Aged Brie, 12, 48 -> Aged Brie, 11, 49
+Aged Brie, 12, 49 -> Aged Brie, 11, 50
+Aged Brie, 12, 50 -> Aged Brie, 11, 50
+Aged Brie, 12, 80 -> Aged Brie, 11, 80
+Elixir of the Mongoose, -10, 0 -> Elixir of the Mongoose, -11, 0
+Elixir of the Mongoose, -10, 1 -> Elixir of the Mongoose, -11, 0
+Elixir of the Mongoose, -10, 2 -> Elixir of the Mongoose, -11, 0
+Elixir of the Mongoose, -10, 10 -> Elixir of the Mongoose, -11, 8
+Elixir of the Mongoose, -10, 48 -> Elixir of the Mongoose, -11, 46
+Elixir of the Mongoose, -10, 49 -> Elixir of the Mongoose, -11, 47
+Elixir of the Mongoose, -10, 50 -> Elixir of the Mongoose, -11, 48
+Elixir of the Mongoose, -10, 80 -> Elixir of the Mongoose, -11, 78
+Elixir of the Mongoose, -1, 0 -> Elixir of the Mongoose, -2, 0
+Elixir of the Mongoose, -1, 1 -> Elixir of the Mongoose, -2, 0
+Elixir of the Mongoose, -1, 2 -> Elixir of the Mongoose, -2, 0
+Elixir of the Mongoose, -1, 10 -> Elixir of the Mongoose, -2, 8
+Elixir of the Mongoose, -1, 48 -> Elixir of the Mongoose, -2, 46
+Elixir of the Mongoose, -1, 49 -> Elixir of the Mongoose, -2, 47
+Elixir of the Mongoose, -1, 50 -> Elixir of the Mongoose, -2, 48
+Elixir of the Mongoose, -1, 80 -> Elixir of the Mongoose, -2, 78
+Elixir of the Mongoose, 0, 0 -> Elixir of the Mongoose, -1, 0
+Elixir of the Mongoose, 0, 1 -> Elixir of the Mongoose, -1, 0
+Elixir of the Mongoose, 0, 2 -> Elixir of the Mongoose, -1, 0
+Elixir of the Mongoose, 0, 10 -> Elixir of the Mongoose, -1, 8
+Elixir of the Mongoose, 0, 48 -> Elixir of the Mongoose, -1, 46
+Elixir of the Mongoose, 0, 49 -> Elixir of the Mongoose, -1, 47
+Elixir of the Mongoose, 0, 50 -> Elixir of the Mongoose, -1, 48
+Elixir of the Mongoose, 0, 80 -> Elixir of the Mongoose, -1, 78
+Elixir of the Mongoose, 1, 0 -> Elixir of the Mongoose, 0, 0
+Elixir of the Mongoose, 1, 1 -> Elixir of the Mongoose, 0, 0
+Elixir of the Mongoose, 1, 2 -> Elixir of the Mongoose, 0, 1
+Elixir of the Mongoose, 1, 10 -> Elixir of the Mongoose, 0, 9
+Elixir of the Mongoose, 1, 48 -> Elixir of the Mongoose, 0, 47
+Elixir of the Mongoose, 1, 49 -> Elixir of the Mongoose, 0, 48
+Elixir of the Mongoose, 1, 50 -> Elixir of the Mongoose, 0, 49
+Elixir of the Mongoose, 1, 80 -> Elixir of the Mongoose, 0, 79
+Elixir of the Mongoose, 2, 0 -> Elixir of the Mongoose, 1, 0
+Elixir of the Mongoose, 2, 1 -> Elixir of the Mongoose, 1, 0
+Elixir of the Mongoose, 2, 2 -> Elixir of the Mongoose, 1, 1
+Elixir of the Mongoose, 2, 10 -> Elixir of the Mongoose, 1, 9
+Elixir of the Mongoose, 2, 48 -> Elixir of the Mongoose, 1, 47
+Elixir of the Mongoose, 2, 49 -> Elixir of the Mongoose, 1, 48
+Elixir of the Mongoose, 2, 50 -> Elixir of the Mongoose, 1, 49
+Elixir of the Mongoose, 2, 80 -> Elixir of the Mongoose, 1, 79
+Elixir of the Mongoose, 5, 0 -> Elixir of the Mongoose, 4, 0
+Elixir of the Mongoose, 5, 1 -> Elixir of the Mongoose, 4, 0
+Elixir of the Mongoose, 5, 2 -> Elixir of the Mongoose, 4, 1
+Elixir of the Mongoose, 5, 10 -> Elixir of the Mongoose, 4, 9
+Elixir of the Mongoose, 5, 48 -> Elixir of the Mongoose, 4, 47
+Elixir of the Mongoose, 5, 49 -> Elixir of the Mongoose, 4, 48
+Elixir of the Mongoose, 5, 50 -> Elixir of the Mongoose, 4, 49
+Elixir of the Mongoose, 5, 80 -> Elixir of the Mongoose, 4, 79
+Elixir of the Mongoose, 6, 0 -> Elixir of the Mongoose, 5, 0
+Elixir of the Mongoose, 6, 1 -> Elixir of the Mongoose, 5, 0
+Elixir of the Mongoose, 6, 2 -> Elixir of the Mongoose, 5, 1
+Elixir of the Mongoose, 6, 10 -> Elixir of the Mongoose, 5, 9
+Elixir of the Mongoose, 6, 48 -> Elixir of the Mongoose, 5, 47
+Elixir of the Mongoose, 6, 49 -> Elixir of the Mongoose, 5, 48
+Elixir of the Mongoose, 6, 50 -> Elixir of the Mongoose, 5, 49
+Elixir of the Mongoose, 6, 80 -> Elixir of the Mongoose, 5, 79
+Elixir of the Mongoose, 7, 0 -> Elixir of the Mongoose, 6, 0
+Elixir of the Mongoose, 7, 1 -> Elixir of the Mongoose, 6, 0
+Elixir of the Mongoose, 7, 2 -> Elixir of the Mongoose, 6, 1
+Elixir of the Mongoose, 7, 10 -> Elixir of the Mongoose, 6, 9
+Elixir of the Mongoose, 7, 48 -> Elixir of the Mongoose, 6, 47
+Elixir of the Mongoose, 7, 49 -> Elixir of the Mongoose, 6, 48
+Elixir of the Mongoose, 7, 50 -> Elixir of the Mongoose, 6, 49
+Elixir of the Mongoose, 7, 80 -> Elixir of the Mongoose, 6, 79
+Elixir of the Mongoose, 10, 0 -> Elixir of the Mongoose, 9, 0
+Elixir of the Mongoose, 10, 1 -> Elixir of the Mongoose, 9, 0
+Elixir of the Mongoose, 10, 2 -> Elixir of the Mongoose, 9, 1
+Elixir of the Mongoose, 10, 10 -> Elixir of the Mongoose, 9, 9
+Elixir of the Mongoose, 10, 48 -> Elixir of the Mongoose, 9, 47
+Elixir of the Mongoose, 10, 49 -> Elixir of the Mongoose, 9, 48
+Elixir of the Mongoose, 10, 50 -> Elixir of the Mongoose, 9, 49
+Elixir of the Mongoose, 10, 80 -> Elixir of the Mongoose, 9, 79
+Elixir of the Mongoose, 11, 0 -> Elixir of the Mongoose, 10, 0
+Elixir of the Mongoose, 11, 1 -> Elixir of the Mongoose, 10, 0
+Elixir of the Mongoose, 11, 2 -> Elixir of the Mongoose, 10, 1
+Elixir of the Mongoose, 11, 10 -> Elixir of the Mongoose, 10, 9
+Elixir of the Mongoose, 11, 48 -> Elixir of the Mongoose, 10, 47
+Elixir of the Mongoose, 11, 49 -> Elixir of the Mongoose, 10, 48
+Elixir of the Mongoose, 11, 50 -> Elixir of the Mongoose, 10, 49
+Elixir of the Mongoose, 11, 80 -> Elixir of the Mongoose, 10, 79
+Elixir of the Mongoose, 12, 0 -> Elixir of the Mongoose, 11, 0
+Elixir of the Mongoose, 12, 1 -> Elixir of the Mongoose, 11, 0
+Elixir of the Mongoose, 12, 2 -> Elixir of the Mongoose, 11, 1
+Elixir of the Mongoose, 12, 10 -> Elixir of the Mongoose, 11, 9
+Elixir of the Mongoose, 12, 48 -> Elixir of the Mongoose, 11, 47
+Elixir of the Mongoose, 12, 49 -> Elixir of the Mongoose, 11, 48
+Elixir of the Mongoose, 12, 50 -> Elixir of the Mongoose, 11, 49
+Elixir of the Mongoose, 12, 80 -> Elixir of the Mongoose, 11, 79
+Sulfuras, Hand of Ragnaros, -10, 0 -> Sulfuras, Hand of Ragnaros, -10, 0
+Sulfuras, Hand of Ragnaros, -10, 1 -> Sulfuras, Hand of Ragnaros, -10, 1
+Sulfuras, Hand of Ragnaros, -10, 2 -> Sulfuras, Hand of Ragnaros, -10, 2
+Sulfuras, Hand of Ragnaros, -10, 10 -> Sulfuras, Hand of Ragnaros, -10, 10
+Sulfuras, Hand of Ragnaros, -10, 48 -> Sulfuras, Hand of Ragnaros, -10, 48
+Sulfuras, Hand of Ragnaros, -10, 49 -> Sulfuras, Hand of Ragnaros, -10, 49
+Sulfuras, Hand of Ragnaros, -10, 50 -> Sulfuras, Hand of Ragnaros, -10, 50
+Sulfuras, Hand of Ragnaros, -10, 80 -> Sulfuras, Hand of Ragnaros, -10, 80
+Sulfuras, Hand of Ragnaros, -1, 0 -> Sulfuras, Hand of Ragnaros, -1, 0
+Sulfuras, Hand of Ragnaros, -1, 1 -> Sulfuras, Hand of Ragnaros, -1, 1
+Sulfuras, Hand of Ragnaros, -1, 2 -> Sulfuras, Hand of Ragnaros, -1, 2
+Sulfuras, Hand of Ragnaros, -1, 10 -> Sulfuras, Hand of Ragnaros, -1, 10
+Sulfuras, Hand of Ragnaros, -1, 48 -> Sulfuras, Hand of Ragnaros, -1, 48
+Sulfuras, Hand of Ragnaros, -1, 49 -> Sulfuras, Hand of Ragnaros, -1, 49
+Sulfuras, Hand of Ragnaros, -1, 50 -> Sulfuras, Hand of Ragnaros, -1, 50
+Sulfuras, Hand of Ragnaros, -1, 80 -> Sulfuras, Hand of Ragnaros, -1, 80
+Sulfuras, Hand of Ragnaros, 0, 0 -> Sulfuras, Hand of Ragnaros, 0, 0
+Sulfuras, Hand of Ragnaros, 0, 1 -> Sulfuras, Hand of Ragnaros, 0, 1
+Sulfuras, Hand of Ragnaros, 0, 2 -> Sulfuras, Hand of Ragnaros, 0, 2
+Sulfuras, Hand of Ragnaros, 0, 10 -> Sulfuras, Hand of Ragnaros, 0, 10
+Sulfuras, Hand of Ragnaros, 0, 48 -> Sulfuras, Hand of Ragnaros, 0, 48
+Sulfuras, Hand of Ragnaros, 0, 49 -> Sulfuras, Hand of Ragnaros, 0, 49
+Sulfuras, Hand of Ragnaros, 0, 50 -> Sulfuras, Hand of Ragnaros, 0, 50
+Sulfuras, Hand of Ragnaros, 0, 80 -> Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, 1, 0 -> Sulfuras, Hand of Ragnaros, 1, 0
+Sulfuras, Hand of Ragnaros, 1, 1 -> Sulfuras, Hand of Ragnaros, 1, 1
+Sulfuras, Hand of Ragnaros, 1, 2 -> Sulfuras, Hand of Ragnaros, 1, 2
+Sulfuras, Hand of Ragnaros, 1, 10 -> Sulfuras, Hand of Ragnaros, 1, 10
+Sulfuras, Hand of Ragnaros, 1, 48 -> Sulfuras, Hand of Ragnaros, 1, 48
+Sulfuras, Hand of Ragnaros, 1, 49 -> Sulfuras, Hand of Ragnaros, 1, 49
+Sulfuras, Hand of Ragnaros, 1, 50 -> Sulfuras, Hand of Ragnaros, 1, 50
+Sulfuras, Hand of Ragnaros, 1, 80 -> Sulfuras, Hand of Ragnaros, 1, 80
+Sulfuras, Hand of Ragnaros, 2, 0 -> Sulfuras, Hand of Ragnaros, 2, 0
+Sulfuras, Hand of Ragnaros, 2, 1 -> Sulfuras, Hand of Ragnaros, 2, 1
+Sulfuras, Hand of Ragnaros, 2, 2 -> Sulfuras, Hand of Ragnaros, 2, 2
+Sulfuras, Hand of Ragnaros, 2, 10 -> Sulfuras, Hand of Ragnaros, 2, 10
+Sulfuras, Hand of Ragnaros, 2, 48 -> Sulfuras, Hand of Ragnaros, 2, 48
+Sulfuras, Hand of Ragnaros, 2, 49 -> Sulfuras, Hand of Ragnaros, 2, 49
+Sulfuras, Hand of Ragnaros, 2, 50 -> Sulfuras, Hand of Ragnaros, 2, 50
+Sulfuras, Hand of Ragnaros, 2, 80 -> Sulfuras, Hand of Ragnaros, 2, 80
+Sulfuras, Hand of Ragnaros, 5, 0 -> Sulfuras, Hand of Ragnaros, 5, 0
+Sulfuras, Hand of Ragnaros, 5, 1 -> Sulfuras, Hand of Ragnaros, 5, 1
+Sulfuras, Hand of Ragnaros, 5, 2 -> Sulfuras, Hand of Ragnaros, 5, 2
+Sulfuras, Hand of Ragnaros, 5, 10 -> Sulfuras, Hand of Ragnaros, 5, 10
+Sulfuras, Hand of Ragnaros, 5, 48 -> Sulfuras, Hand of Ragnaros, 5, 48
+Sulfuras, Hand of Ragnaros, 5, 49 -> Sulfuras, Hand of Ragnaros, 5, 49
+Sulfuras, Hand of Ragnaros, 5, 50 -> Sulfuras, Hand of Ragnaros, 5, 50
+Sulfuras, Hand of Ragnaros, 5, 80 -> Sulfuras, Hand of Ragnaros, 5, 80
+Sulfuras, Hand of Ragnaros, 6, 0 -> Sulfuras, Hand of Ragnaros, 6, 0
+Sulfuras, Hand of Ragnaros, 6, 1 -> Sulfuras, Hand of Ragnaros, 6, 1
+Sulfuras, Hand of Ragnaros, 6, 2 -> Sulfuras, Hand of Ragnaros, 6, 2
+Sulfuras, Hand of Ragnaros, 6, 10 -> Sulfuras, Hand of Ragnaros, 6, 10
+Sulfuras, Hand of Ragnaros, 6, 48 -> Sulfuras, Hand of Ragnaros, 6, 48
+Sulfuras, Hand of Ragnaros, 6, 49 -> Sulfuras, Hand of Ragnaros, 6, 49
+Sulfuras, Hand of Ragnaros, 6, 50 -> Sulfuras, Hand of Ragnaros, 6, 50
+Sulfuras, Hand of Ragnaros, 6, 80 -> Sulfuras, Hand of Ragnaros, 6, 80
+Sulfuras, Hand of Ragnaros, 7, 0 -> Sulfuras, Hand of Ragnaros, 7, 0
+Sulfuras, Hand of Ragnaros, 7, 1 -> Sulfuras, Hand of Ragnaros, 7, 1
+Sulfuras, Hand of Ragnaros, 7, 2 -> Sulfuras, Hand of Ragnaros, 7, 2
+Sulfuras, Hand of Ragnaros, 7, 10 -> Sulfuras, Hand of Ragnaros, 7, 10
+Sulfuras, Hand of Ragnaros, 7, 48 -> Sulfuras, Hand of Ragnaros, 7, 48
+Sulfuras, Hand of Ragnaros, 7, 49 -> Sulfuras, Hand of Ragnaros, 7, 49
+Sulfuras, Hand of Ragnaros, 7, 50 -> Sulfuras, Hand of Ragnaros, 7, 50
+Sulfuras, Hand of Ragnaros, 7, 80 -> Sulfuras, Hand of Ragnaros, 7, 80
+Sulfuras, Hand of Ragnaros, 10, 0 -> Sulfuras, Hand of Ragnaros, 10, 0
+Sulfuras, Hand of Ragnaros, 10, 1 -> Sulfuras, Hand of Ragnaros, 10, 1
+Sulfuras, Hand of Ragnaros, 10, 2 -> Sulfuras, Hand of Ragnaros, 10, 2
+Sulfuras, Hand of Ragnaros, 10, 10 -> Sulfuras, Hand of Ragnaros, 10, 10
+Sulfuras, Hand of Ragnaros, 10, 48 -> Sulfuras, Hand of Ragnaros, 10, 48
+Sulfuras, Hand of Ragnaros, 10, 49 -> Sulfuras, Hand of Ragnaros, 10, 49
+Sulfuras, Hand of Ragnaros, 10, 50 -> Sulfuras, Hand of Ragnaros, 10, 50
+Sulfuras, Hand of Ragnaros, 10, 80 -> Sulfuras, Hand of Ragnaros, 10, 80
+Sulfuras, Hand of Ragnaros, 11, 0 -> Sulfuras, Hand of Ragnaros, 11, 0
+Sulfuras, Hand of Ragnaros, 11, 1 -> Sulfuras, Hand of Ragnaros, 11, 1
+Sulfuras, Hand of Ragnaros, 11, 2 -> Sulfuras, Hand of Ragnaros, 11, 2
+Sulfuras, Hand of Ragnaros, 11, 10 -> Sulfuras, Hand of Ragnaros, 11, 10
+Sulfuras, Hand of Ragnaros, 11, 48 -> Sulfuras, Hand of Ragnaros, 11, 48
+Sulfuras, Hand of Ragnaros, 11, 49 -> Sulfuras, Hand of Ragnaros, 11, 49
+Sulfuras, Hand of Ragnaros, 11, 50 -> Sulfuras, Hand of Ragnaros, 11, 50
+Sulfuras, Hand of Ragnaros, 11, 80 -> Sulfuras, Hand of Ragnaros, 11, 80
+Sulfuras, Hand of Ragnaros, 12, 0 -> Sulfuras, Hand of Ragnaros, 12, 0
+Sulfuras, Hand of Ragnaros, 12, 1 -> Sulfuras, Hand of Ragnaros, 12, 1
+Sulfuras, Hand of Ragnaros, 12, 2 -> Sulfuras, Hand of Ragnaros, 12, 2
+Sulfuras, Hand of Ragnaros, 12, 10 -> Sulfuras, Hand of Ragnaros, 12, 10
+Sulfuras, Hand of Ragnaros, 12, 48 -> Sulfuras, Hand of Ragnaros, 12, 48
+Sulfuras, Hand of Ragnaros, 12, 49 -> Sulfuras, Hand of Ragnaros, 12, 49
+Sulfuras, Hand of Ragnaros, 12, 50 -> Sulfuras, Hand of Ragnaros, 12, 50
+Sulfuras, Hand of Ragnaros, 12, 80 -> Sulfuras, Hand of Ragnaros, 12, 80
+Backstage passes to a TAFKAL80ETC concert, -10, 0 -> Backstage passes to a TAFKAL80ETC concert, -11, 0
+Backstage passes to a TAFKAL80ETC concert, -10, 1 -> Backstage passes to a TAFKAL80ETC concert, -11, 0
+Backstage passes to a TAFKAL80ETC concert, -10, 2 -> Backstage passes to a TAFKAL80ETC concert, -11, 0
+Backstage passes to a TAFKAL80ETC concert, -10, 10 -> Backstage passes to a TAFKAL80ETC concert, -11, 0
+Backstage passes to a TAFKAL80ETC concert, -10, 48 -> Backstage passes to a TAFKAL80ETC concert, -11, 0
+Backstage passes to a TAFKAL80ETC concert, -10, 49 -> Backstage passes to a TAFKAL80ETC concert, -11, 0
+Backstage passes to a TAFKAL80ETC concert, -10, 50 -> Backstage passes to a TAFKAL80ETC concert, -11, 0
+Backstage passes to a TAFKAL80ETC concert, -10, 80 -> Backstage passes to a TAFKAL80ETC concert, -11, 0
+Backstage passes to a TAFKAL80ETC concert, -1, 0 -> Backstage passes to a TAFKAL80ETC concert, -2, 0
+Backstage passes to a TAFKAL80ETC concert, -1, 1 -> Backstage passes to a TAFKAL80ETC concert, -2, 0
+Backstage passes to a TAFKAL80ETC concert, -1, 2 -> Backstage passes to a TAFKAL80ETC concert, -2, 0
+Backstage passes to a TAFKAL80ETC concert, -1, 10 -> Backstage passes to a TAFKAL80ETC concert, -2, 0
+Backstage passes to a TAFKAL80ETC concert, -1, 48 -> Backstage passes to a TAFKAL80ETC concert, -2, 0
+Backstage passes to a TAFKAL80ETC concert, -1, 49 -> Backstage passes to a TAFKAL80ETC concert, -2, 0
+Backstage passes to a TAFKAL80ETC concert, -1, 50 -> Backstage passes to a TAFKAL80ETC concert, -2, 0
+Backstage passes to a TAFKAL80ETC concert, -1, 80 -> Backstage passes to a TAFKAL80ETC concert, -2, 0
+Backstage passes to a TAFKAL80ETC concert, 0, 0 -> Backstage passes to a TAFKAL80ETC concert, -1, 0
+Backstage passes to a TAFKAL80ETC concert, 0, 1 -> Backstage passes to a TAFKAL80ETC concert, -1, 0
+Backstage passes to a TAFKAL80ETC concert, 0, 2 -> Backstage passes to a TAFKAL80ETC concert, -1, 0
+Backstage passes to a TAFKAL80ETC concert, 0, 10 -> Backstage passes to a TAFKAL80ETC concert, -1, 0
+Backstage passes to a TAFKAL80ETC concert, 0, 48 -> Backstage passes to a TAFKAL80ETC concert, -1, 0
+Backstage passes to a TAFKAL80ETC concert, 0, 49 -> Backstage passes to a TAFKAL80ETC concert, -1, 0
+Backstage passes to a TAFKAL80ETC concert, 0, 50 -> Backstage passes to a TAFKAL80ETC concert, -1, 0
+Backstage passes to a TAFKAL80ETC concert, 0, 80 -> Backstage passes to a TAFKAL80ETC concert, -1, 0
+Backstage passes to a TAFKAL80ETC concert, 1, 0 -> Backstage passes to a TAFKAL80ETC concert, 0, 3
+Backstage passes to a TAFKAL80ETC concert, 1, 1 -> Backstage passes to a TAFKAL80ETC concert, 0, 4
+Backstage passes to a TAFKAL80ETC concert, 1, 2 -> Backstage passes to a TAFKAL80ETC concert, 0, 5
+Backstage passes to a TAFKAL80ETC concert, 1, 10 -> Backstage passes to a TAFKAL80ETC concert, 0, 13
+Backstage passes to a TAFKAL80ETC concert, 1, 48 -> Backstage passes to a TAFKAL80ETC concert, 0, 50
+Backstage passes to a TAFKAL80ETC concert, 1, 49 -> Backstage passes to a TAFKAL80ETC concert, 0, 50
+Backstage passes to a TAFKAL80ETC concert, 1, 50 -> Backstage passes to a TAFKAL80ETC concert, 0, 50
+Backstage passes to a TAFKAL80ETC concert, 1, 80 -> Backstage passes to a TAFKAL80ETC concert, 0, 80
+Backstage passes to a TAFKAL80ETC concert, 2, 0 -> Backstage passes to a TAFKAL80ETC concert, 1, 3
+Backstage passes to a TAFKAL80ETC concert, 2, 1 -> Backstage passes to a TAFKAL80ETC concert, 1, 4
+Backstage passes to a TAFKAL80ETC concert, 2, 2 -> Backstage passes to a TAFKAL80ETC concert, 1, 5
+Backstage passes to a TAFKAL80ETC concert, 2, 10 -> Backstage passes to a TAFKAL80ETC concert, 1, 13
+Backstage passes to a TAFKAL80ETC concert, 2, 48 -> Backstage passes to a TAFKAL80ETC concert, 1, 50
+Backstage passes to a TAFKAL80ETC concert, 2, 49 -> Backstage passes to a TAFKAL80ETC concert, 1, 50
+Backstage passes to a TAFKAL80ETC concert, 2, 50 -> Backstage passes to a TAFKAL80ETC concert, 1, 50
+Backstage passes to a TAFKAL80ETC concert, 2, 80 -> Backstage passes to a TAFKAL80ETC concert, 1, 80
+Backstage passes to a TAFKAL80ETC concert, 5, 0 -> Backstage passes to a TAFKAL80ETC concert, 4, 3
+Backstage passes to a TAFKAL80ETC concert, 5, 1 -> Backstage passes to a TAFKAL80ETC concert, 4, 4
+Backstage passes to a TAFKAL80ETC concert, 5, 2 -> Backstage passes to a TAFKAL80ETC concert, 4, 5
+Backstage passes to a TAFKAL80ETC concert, 5, 10 -> Backstage passes to a TAFKAL80ETC concert, 4, 13
+Backstage passes to a TAFKAL80ETC concert, 5, 48 -> Backstage passes to a TAFKAL80ETC concert, 4, 50
+Backstage passes to a TAFKAL80ETC concert, 5, 49 -> Backstage passes to a TAFKAL80ETC concert, 4, 50
+Backstage passes to a TAFKAL80ETC concert, 5, 50 -> Backstage passes to a TAFKAL80ETC concert, 4, 50
+Backstage passes to a TAFKAL80ETC concert, 5, 80 -> Backstage passes to a TAFKAL80ETC concert, 4, 80
+Backstage passes to a TAFKAL80ETC concert, 6, 0 -> Backstage passes to a TAFKAL80ETC concert, 5, 2
+Backstage passes to a TAFKAL80ETC concert, 6, 1 -> Backstage passes to a TAFKAL80ETC concert, 5, 3
+Backstage passes to a TAFKAL80ETC concert, 6, 2 -> Backstage passes to a TAFKAL80ETC concert, 5, 4
+Backstage passes to a TAFKAL80ETC concert, 6, 10 -> Backstage passes to a TAFKAL80ETC concert, 5, 12
+Backstage passes to a TAFKAL80ETC concert, 6, 48 -> Backstage passes to a TAFKAL80ETC concert, 5, 50
+Backstage passes to a TAFKAL80ETC concert, 6, 49 -> Backstage passes to a TAFKAL80ETC concert, 5, 50
+Backstage passes to a TAFKAL80ETC concert, 6, 50 -> Backstage passes to a TAFKAL80ETC concert, 5, 50
+Backstage passes to a TAFKAL80ETC concert, 6, 80 -> Backstage passes to a TAFKAL80ETC concert, 5, 80
+Backstage passes to a TAFKAL80ETC concert, 7, 0 -> Backstage passes to a TAFKAL80ETC concert, 6, 2
+Backstage passes to a TAFKAL80ETC concert, 7, 1 -> Backstage passes to a TAFKAL80ETC concert, 6, 3
+Backstage passes to a TAFKAL80ETC concert, 7, 2 -> Backstage passes to a TAFKAL80ETC concert, 6, 4
+Backstage passes to a TAFKAL80ETC concert, 7, 10 -> Backstage passes to a TAFKAL80ETC concert, 6, 12
+Backstage passes to a TAFKAL80ETC concert, 7, 48 -> Backstage passes to a TAFKAL80ETC concert, 6, 50
+Backstage passes to a TAFKAL80ETC concert, 7, 49 -> Backstage passes to a TAFKAL80ETC concert, 6, 50
+Backstage passes to a TAFKAL80ETC concert, 7, 50 -> Backstage passes to a TAFKAL80ETC concert, 6, 50
+Backstage passes to a TAFKAL80ETC concert, 7, 80 -> Backstage passes to a TAFKAL80ETC concert, 6, 80
+Backstage passes to a TAFKAL80ETC concert, 10, 0 -> Backstage passes to a TAFKAL80ETC concert, 9, 2
+Backstage passes to a TAFKAL80ETC concert, 10, 1 -> Backstage passes to a TAFKAL80ETC concert, 9, 3
+Backstage passes to a TAFKAL80ETC concert, 10, 2 -> Backstage passes to a TAFKAL80ETC concert, 9, 4
+Backstage passes to a TAFKAL80ETC concert, 10, 10 -> Backstage passes to a TAFKAL80ETC concert, 9, 12
+Backstage passes to a TAFKAL80ETC concert, 10, 48 -> Backstage passes to a TAFKAL80ETC concert, 9, 50
+Backstage passes to a TAFKAL80ETC concert, 10, 49 -> Backstage passes to a TAFKAL80ETC concert, 9, 50
+Backstage passes to a TAFKAL80ETC concert, 10, 50 -> Backstage passes to a TAFKAL80ETC concert, 9, 50
+Backstage passes to a TAFKAL80ETC concert, 10, 80 -> Backstage passes to a TAFKAL80ETC concert, 9, 80
+Backstage passes to a TAFKAL80ETC concert, 11, 0 -> Backstage passes to a TAFKAL80ETC concert, 10, 1
+Backstage passes to a TAFKAL80ETC concert, 11, 1 -> Backstage passes to a TAFKAL80ETC concert, 10, 2
+Backstage passes to a TAFKAL80ETC concert, 11, 2 -> Backstage passes to a TAFKAL80ETC concert, 10, 3
+Backstage passes to a TAFKAL80ETC concert, 11, 10 -> Backstage passes to a TAFKAL80ETC concert, 10, 11
+Backstage passes to a TAFKAL80ETC concert, 11, 48 -> Backstage passes to a TAFKAL80ETC concert, 10, 49
+Backstage passes to a TAFKAL80ETC concert, 11, 49 -> Backstage passes to a TAFKAL80ETC concert, 10, 50
+Backstage passes to a TAFKAL80ETC concert, 11, 50 -> Backstage passes to a TAFKAL80ETC concert, 10, 50
+Backstage passes to a TAFKAL80ETC concert, 11, 80 -> Backstage passes to a TAFKAL80ETC concert, 10, 80
+Backstage passes to a TAFKAL80ETC concert, 12, 0 -> Backstage passes to a TAFKAL80ETC concert, 11, 1
+Backstage passes to a TAFKAL80ETC concert, 12, 1 -> Backstage passes to a TAFKAL80ETC concert, 11, 2
+Backstage passes to a TAFKAL80ETC concert, 12, 2 -> Backstage passes to a TAFKAL80ETC concert, 11, 3
+Backstage passes to a TAFKAL80ETC concert, 12, 10 -> Backstage passes to a TAFKAL80ETC concert, 11, 11
+Backstage passes to a TAFKAL80ETC concert, 12, 48 -> Backstage passes to a TAFKAL80ETC concert, 11, 49
+Backstage passes to a TAFKAL80ETC concert, 12, 49 -> Backstage passes to a TAFKAL80ETC concert, 11, 50
+Backstage passes to a TAFKAL80ETC concert, 12, 50 -> Backstage passes to a TAFKAL80ETC concert, 11, 50
+Backstage passes to a TAFKAL80ETC concert, 12, 80 -> Backstage passes to a TAFKAL80ETC concert, 11, 80
+Conjured Mana Cake, -10, 0 -> Conjured Mana Cake, -11, 0
+Conjured Mana Cake, -10, 1 -> Conjured Mana Cake, -11, 0
+Conjured Mana Cake, -10, 2 -> Conjured Mana Cake, -11, 0
+Conjured Mana Cake, -10, 10 -> Conjured Mana Cake, -11, 8
+Conjured Mana Cake, -10, 48 -> Conjured Mana Cake, -11, 46
+Conjured Mana Cake, -10, 49 -> Conjured Mana Cake, -11, 47
+Conjured Mana Cake, -10, 50 -> Conjured Mana Cake, -11, 48
+Conjured Mana Cake, -10, 80 -> Conjured Mana Cake, -11, 78
+Conjured Mana Cake, -1, 0 -> Conjured Mana Cake, -2, 0
+Conjured Mana Cake, -1, 1 -> Conjured Mana Cake, -2, 0
+Conjured Mana Cake, -1, 2 -> Conjured Mana Cake, -2, 0
+Conjured Mana Cake, -1, 10 -> Conjured Mana Cake, -2, 8
+Conjured Mana Cake, -1, 48 -> Conjured Mana Cake, -2, 46
+Conjured Mana Cake, -1, 49 -> Conjured Mana Cake, -2, 47
+Conjured Mana Cake, -1, 50 -> Conjured Mana Cake, -2, 48
+Conjured Mana Cake, -1, 80 -> Conjured Mana Cake, -2, 78
+Conjured Mana Cake, 0, 0 -> Conjured Mana Cake, -1, 0
+Conjured Mana Cake, 0, 1 -> Conjured Mana Cake, -1, 0
+Conjured Mana Cake, 0, 2 -> Conjured Mana Cake, -1, 0
+Conjured Mana Cake, 0, 10 -> Conjured Mana Cake, -1, 8
+Conjured Mana Cake, 0, 48 -> Conjured Mana Cake, -1, 46
+Conjured Mana Cake, 0, 49 -> Conjured Mana Cake, -1, 47
+Conjured Mana Cake, 0, 50 -> Conjured Mana Cake, -1, 48
+Conjured Mana Cake, 0, 80 -> Conjured Mana Cake, -1, 78
+Conjured Mana Cake, 1, 0 -> Conjured Mana Cake, 0, 0
+Conjured Mana Cake, 1, 1 -> Conjured Mana Cake, 0, 0
+Conjured Mana Cake, 1, 2 -> Conjured Mana Cake, 0, 1
+Conjured Mana Cake, 1, 10 -> Conjured Mana Cake, 0, 9
+Conjured Mana Cake, 1, 48 -> Conjured Mana Cake, 0, 47
+Conjured Mana Cake, 1, 49 -> Conjured Mana Cake, 0, 48
+Conjured Mana Cake, 1, 50 -> Conjured Mana Cake, 0, 49
+Conjured Mana Cake, 1, 80 -> Conjured Mana Cake, 0, 79
+Conjured Mana Cake, 2, 0 -> Conjured Mana Cake, 1, 0
+Conjured Mana Cake, 2, 1 -> Conjured Mana Cake, 1, 0
+Conjured Mana Cake, 2, 2 -> Conjured Mana Cake, 1, 1
+Conjured Mana Cake, 2, 10 -> Conjured Mana Cake, 1, 9
+Conjured Mana Cake, 2, 48 -> Conjured Mana Cake, 1, 47
+Conjured Mana Cake, 2, 49 -> Conjured Mana Cake, 1, 48
+Conjured Mana Cake, 2, 50 -> Conjured Mana Cake, 1, 49
+Conjured Mana Cake, 2, 80 -> Conjured Mana Cake, 1, 79
+Conjured Mana Cake, 5, 0 -> Conjured Mana Cake, 4, 0
+Conjured Mana Cake, 5, 1 -> Conjured Mana Cake, 4, 0
+Conjured Mana Cake, 5, 2 -> Conjured Mana Cake, 4, 1
+Conjured Mana Cake, 5, 10 -> Conjured Mana Cake, 4, 9
+Conjured Mana Cake, 5, 48 -> Conjured Mana Cake, 4, 47
+Conjured Mana Cake, 5, 49 -> Conjured Mana Cake, 4, 48
+Conjured Mana Cake, 5, 50 -> Conjured Mana Cake, 4, 49
+Conjured Mana Cake, 5, 80 -> Conjured Mana Cake, 4, 79
+Conjured Mana Cake, 6, 0 -> Conjured Mana Cake, 5, 0
+Conjured Mana Cake, 6, 1 -> Conjured Mana Cake, 5, 0
+Conjured Mana Cake, 6, 2 -> Conjured Mana Cake, 5, 1
+Conjured Mana Cake, 6, 10 -> Conjured Mana Cake, 5, 9
+Conjured Mana Cake, 6, 48 -> Conjured Mana Cake, 5, 47
+Conjured Mana Cake, 6, 49 -> Conjured Mana Cake, 5, 48
+Conjured Mana Cake, 6, 50 -> Conjured Mana Cake, 5, 49
+Conjured Mana Cake, 6, 80 -> Conjured Mana Cake, 5, 79
+Conjured Mana Cake, 7, 0 -> Conjured Mana Cake, 6, 0
+Conjured Mana Cake, 7, 1 -> Conjured Mana Cake, 6, 0
+Conjured Mana Cake, 7, 2 -> Conjured Mana Cake, 6, 1
+Conjured Mana Cake, 7, 10 -> Conjured Mana Cake, 6, 9
+Conjured Mana Cake, 7, 48 -> Conjured Mana Cake, 6, 47
+Conjured Mana Cake, 7, 49 -> Conjured Mana Cake, 6, 48
+Conjured Mana Cake, 7, 50 -> Conjured Mana Cake, 6, 49
+Conjured Mana Cake, 7, 80 -> Conjured Mana Cake, 6, 79
+Conjured Mana Cake, 10, 0 -> Conjured Mana Cake, 9, 0
+Conjured Mana Cake, 10, 1 -> Conjured Mana Cake, 9, 0
+Conjured Mana Cake, 10, 2 -> Conjured Mana Cake, 9, 1
+Conjured Mana Cake, 10, 10 -> Conjured Mana Cake, 9, 9
+Conjured Mana Cake, 10, 48 -> Conjured Mana Cake, 9, 47
+Conjured Mana Cake, 10, 49 -> Conjured Mana Cake, 9, 48
+Conjured Mana Cake, 10, 50 -> Conjured Mana Cake, 9, 49
+Conjured Mana Cake, 10, 80 -> Conjured Mana Cake, 9, 79
+Conjured Mana Cake, 11, 0 -> Conjured Mana Cake, 10, 0
+Conjured Mana Cake, 11, 1 -> Conjured Mana Cake, 10, 0
+Conjured Mana Cake, 11, 2 -> Conjured Mana Cake, 10, 1
+Conjured Mana Cake, 11, 10 -> Conjured Mana Cake, 10, 9
+Conjured Mana Cake, 11, 48 -> Conjured Mana Cake, 10, 47
+Conjured Mana Cake, 11, 49 -> Conjured Mana Cake, 10, 48
+Conjured Mana Cake, 11, 50 -> Conjured Mana Cake, 10, 49
+Conjured Mana Cake, 11, 80 -> Conjured Mana Cake, 10, 79
+Conjured Mana Cake, 12, 0 -> Conjured Mana Cake, 11, 0
+Conjured Mana Cake, 12, 1 -> Conjured Mana Cake, 11, 0
+Conjured Mana Cake, 12, 2 -> Conjured Mana Cake, 11, 1
+Conjured Mana Cake, 12, 10 -> Conjured Mana Cake, 11, 9
+Conjured Mana Cake, 12, 48 -> Conjured Mana Cake, 11, 47
+Conjured Mana Cake, 12, 49 -> Conjured Mana Cake, 11, 48
+Conjured Mana Cake, 12, 50 -> Conjured Mana Cake, 11, 49
+Conjured Mana Cake, 12, 80 -> Conjured Mana Cake, 11, 79"
+`;
+
+exports[`GildedRose golden master matches the recorded behaviour over 30 days 1`] = `
+"-------- day 0 --------
+name, sellIn, quality
++5 Dexterity Vest, 10, 20
+Aged Brie, 2, 0
+Elixir of the Mongoose, 5, 7
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, 15, 20
+Backstage passes to a TAFKAL80ETC concert, 10, 49
+Backstage passes to a TAFKAL80ETC concert, 5, 49
+Conjured Mana Cake, 3, 6
+
+-------- day 1 --------
+name, sellIn, quality
++5 Dexterity Vest, 9, 19
+Aged Brie, 1, 1
+Elixir of the Mongoose, 4, 6
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, 14, 21
+Backstage passes to a TAFKAL80ETC concert, 9, 50
+Backstage passes to a TAFKAL80ETC concert, 4, 50
+Conjured Mana Cake, 2, 5
+
+-------- day 2 --------
+name, sellIn, quality
++5 Dexterity Vest, 8, 18
+Aged Brie, 0, 2
+Elixir of the Mongoose, 3, 5
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, 13, 22
+Backstage passes to a TAFKAL80ETC concert, 8, 50
+Backstage passes to a TAFKAL80ETC concert, 3, 50
+Conjured Mana Cake, 1, 4
+
+-------- day 3 --------
+name, sellIn, quality
++5 Dexterity Vest, 7, 17
+Aged Brie, -1, 4
+Elixir of the Mongoose, 2, 4
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, 12, 23
+Backstage passes to a TAFKAL80ETC concert, 7, 50
+Backstage passes to a TAFKAL80ETC concert, 2, 50
+Conjured Mana Cake, 0, 3
+
+-------- day 4 --------
+name, sellIn, quality
++5 Dexterity Vest, 6, 16
+Aged Brie, -2, 6
+Elixir of the Mongoose, 1, 3
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, 11, 24
+Backstage passes to a TAFKAL80ETC concert, 6, 50
+Backstage passes to a TAFKAL80ETC concert, 1, 50
+Conjured Mana Cake, -1, 1
+
+-------- day 5 --------
+name, sellIn, quality
++5 Dexterity Vest, 5, 15
+Aged Brie, -3, 8
+Elixir of the Mongoose, 0, 2
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, 10, 25
+Backstage passes to a TAFKAL80ETC concert, 5, 50
+Backstage passes to a TAFKAL80ETC concert, 0, 50
+Conjured Mana Cake, -2, 0
+
+-------- day 6 --------
+name, sellIn, quality
++5 Dexterity Vest, 4, 14
+Aged Brie, -4, 10
+Elixir of the Mongoose, -1, 0
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, 9, 27
+Backstage passes to a TAFKAL80ETC concert, 4, 50
+Backstage passes to a TAFKAL80ETC concert, -1, 0
+Conjured Mana Cake, -3, 0
+
+-------- day 7 --------
+name, sellIn, quality
++5 Dexterity Vest, 3, 13
+Aged Brie, -5, 12
+Elixir of the Mongoose, -2, 0
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, 8, 29
+Backstage passes to a TAFKAL80ETC concert, 3, 50
+Backstage passes to a TAFKAL80ETC concert, -2, 0
+Conjured Mana Cake, -4, 0
+
+-------- day 8 --------
+name, sellIn, quality
++5 Dexterity Vest, 2, 12
+Aged Brie, -6, 14
+Elixir of the Mongoose, -3, 0
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, 7, 31
+Backstage passes to a TAFKAL80ETC concert, 2, 50
+Backstage passes to a TAFKAL80ETC concert, -3, 0
+Conjured Mana Cake, -5, 0
+
+-------- day 9 --------
+name, sellIn, quality
++5 Dexterity Vest, 1, 11
+Aged Brie, -7, 16
+Elixir of the Mongoose, -4, 0
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, 6, 33
+Backstage passes to a TAFKAL80ETC concert, 1, 50
+Backstage passes to a TAFKAL80ETC concert, -4, 0
+Conjured Mana Cake, -6, 0
+
+-------- day 10 --------
+name, sellIn, quality
++5 Dexterity Vest, 0, 10
+Aged Brie, -8, 18
+Elixir of the Mongoose, -5, 0
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, 5, 35
+Backstage passes to a TAFKAL80ETC concert, 0, 50
+Backstage passes to a TAFKAL80ETC concert, -5, 0
+Conjured Mana Cake, -7, 0
+
+-------- day 11 --------
+name, sellIn, quality
++5 Dexterity Vest, -1, 8
+Aged Brie, -9, 20
+Elixir of the Mongoose, -6, 0
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, 4, 38
+Backstage passes to a TAFKAL80ETC concert, -1, 0
+Backstage passes to a TAFKAL80ETC concert, -6, 0
+Conjured Mana Cake, -8, 0
+
+-------- day 12 --------
+name, sellIn, quality
++5 Dexterity Vest, -2, 6
+Aged Brie, -10, 22
+Elixir of the Mongoose, -7, 0
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, 3, 41
+Backstage passes to a TAFKAL80ETC concert, -2, 0
+Backstage passes to a TAFKAL80ETC concert, -7, 0
+Conjured Mana Cake, -9, 0
+
+-------- day 13 --------
+name, sellIn, quality
++5 Dexterity Vest, -3, 4
+Aged Brie, -11, 24
+Elixir of the Mongoose, -8, 0
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, 2, 44
+Backstage passes to a TAFKAL80ETC concert, -3, 0
+Backstage passes to a TAFKAL80ETC concert, -8, 0
+Conjured Mana Cake, -10, 0
+
+-------- day 14 --------
+name, sellIn, quality
++5 Dexterity Vest, -4, 2
+Aged Brie, -12, 26
+Elixir of the Mongoose, -9, 0
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, 1, 47
+Backstage passes to a TAFKAL80ETC concert, -4, 0
+Backstage passes to a TAFKAL80ETC concert, -9, 0
+Conjured Mana Cake, -11, 0
+
+-------- day 15 --------
+name, sellIn, quality
++5 Dexterity Vest, -5, 0
+Aged Brie, -13, 28
+Elixir of the Mongoose, -10, 0
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, 0, 50
+Backstage passes to a TAFKAL80ETC concert, -5, 0
+Backstage passes to a TAFKAL80ETC concert, -10, 0
+Conjured Mana Cake, -12, 0
+
+-------- day 16 --------
+name, sellIn, quality
++5 Dexterity Vest, -6, 0
+Aged Brie, -14, 30
+Elixir of the Mongoose, -11, 0
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -1, 0
+Backstage passes to a TAFKAL80ETC concert, -6, 0
+Backstage passes to a TAFKAL80ETC concert, -11, 0
+Conjured Mana Cake, -13, 0
+
+-------- day 17 --------
+name, sellIn, quality
++5 Dexterity Vest, -7, 0
+Aged Brie, -15, 32
+Elixir of the Mongoose, -12, 0
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -2, 0
+Backstage passes to a TAFKAL80ETC concert, -7, 0
+Backstage passes to a TAFKAL80ETC concert, -12, 0
+Conjured Mana Cake, -14, 0
+
+-------- day 18 --------
+name, sellIn, quality
++5 Dexterity Vest, -8, 0
+Aged Brie, -16, 34
+Elixir of the Mongoose, -13, 0
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -3, 0
+Backstage passes to a TAFKAL80ETC concert, -8, 0
+Backstage passes to a TAFKAL80ETC concert, -13, 0
+Conjured Mana Cake, -15, 0
+
+-------- day 19 --------
+name, sellIn, quality
++5 Dexterity Vest, -9, 0
+Aged Brie, -17, 36
+Elixir of the Mongoose, -14, 0
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -4, 0
+Backstage passes to a TAFKAL80ETC concert, -9, 0
+Backstage passes to a TAFKAL80ETC concert, -14, 0
+Conjured Mana Cake, -16, 0
+
+-------- day 20 --------
+name, sellIn, quality
++5 Dexterity Vest, -10, 0
+Aged Brie, -18, 38
+Elixir of the Mongoose, -15, 0
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -5, 0
+Backstage passes to a TAFKAL80ETC concert, -10, 0
+Backstage passes to a TAFKAL80ETC concert, -15, 0
+Conjured Mana Cake, -17, 0
+
+-------- day 21 --------
+name, sellIn, quality
++5 Dexterity Vest, -11, 0
+Aged Brie, -19, 40
+Elixir of the Mongoose, -16, 0
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -6, 0
+Backstage passes to a TAFKAL80ETC concert, -11, 0
+Backstage passes to a TAFKAL80ETC concert, -16, 0
+Conjured Mana Cake, -18, 0
+
+-------- day 22 --------
+name, sellIn, quality
++5 Dexterity Vest, -12, 0
+Aged Brie, -20, 42
+Elixir of the Mongoose, -17, 0
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -7, 0
+Backstage passes to a TAFKAL80ETC concert, -12, 0
+Backstage passes to a TAFKAL80ETC concert, -17, 0
+Conjured Mana Cake, -19, 0
+
+-------- day 23 --------
+name, sellIn, quality
++5 Dexterity Vest, -13, 0
+Aged Brie, -21, 44
+Elixir of the Mongoose, -18, 0
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -8, 0
+Backstage passes to a TAFKAL80ETC concert, -13, 0
+Backstage passes to a TAFKAL80ETC concert, -18, 0
+Conjured Mana Cake, -20, 0
+
+-------- day 24 --------
+name, sellIn, quality
++5 Dexterity Vest, -14, 0
+Aged Brie, -22, 46
+Elixir of the Mongoose, -19, 0
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -9, 0
+Backstage passes to a TAFKAL80ETC concert, -14, 0
+Backstage passes to a TAFKAL80ETC concert, -19, 0
+Conjured Mana Cake, -21, 0
+
+-------- day 25 --------
+name, sellIn, quality
++5 Dexterity Vest, -15, 0
+Aged Brie, -23, 48
+Elixir of the Mongoose, -20, 0
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -10, 0
+Backstage passes to a TAFKAL80ETC concert, -15, 0
+Backstage passes to a TAFKAL80ETC concert, -20, 0
+Conjured Mana Cake, -22, 0
+
+-------- day 26 --------
+name, sellIn, quality
++5 Dexterity Vest, -16, 0
+Aged Brie, -24, 50
+Elixir of the Mongoose, -21, 0
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -11, 0
+Backstage passes to a TAFKAL80ETC concert, -16, 0
+Backstage passes to a TAFKAL80ETC concert, -21, 0
+Conjured Mana Cake, -23, 0
+
+-------- day 27 --------
+name, sellIn, quality
++5 Dexterity Vest, -17, 0
+Aged Brie, -25, 50
+Elixir of the Mongoose, -22, 0
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -12, 0
+Backstage passes to a TAFKAL80ETC concert, -17, 0
+Backstage passes to a TAFKAL80ETC concert, -22, 0
+Conjured Mana Cake, -24, 0
+
+-------- day 28 --------
+name, sellIn, quality
++5 Dexterity Vest, -18, 0
+Aged Brie, -26, 50
+Elixir of the Mongoose, -23, 0
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -13, 0
+Backstage passes to a TAFKAL80ETC concert, -18, 0
+Backstage passes to a TAFKAL80ETC concert, -23, 0
+Conjured Mana Cake, -25, 0
+
+-------- day 29 --------
+name, sellIn, quality
++5 Dexterity Vest, -19, 0
+Aged Brie, -27, 50
+Elixir of the Mongoose, -24, 0
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -14, 0
+Backstage passes to a TAFKAL80ETC concert, -19, 0
+Backstage passes to a TAFKAL80ETC concert, -24, 0
+Conjured Mana Cake, -26, 0
+
+-------- day 30 --------
+name, sellIn, quality
++5 Dexterity Vest, -20, 0
+Aged Brie, -28, 50
+Elixir of the Mongoose, -25, 0
+Sulfuras, Hand of Ragnaros, 0, 80
+Sulfuras, Hand of Ragnaros, -1, 80
+Backstage passes to a TAFKAL80ETC concert, -15, 0
+Backstage passes to a TAFKAL80ETC concert, -20, 0
+Backstage passes to a TAFKAL80ETC concert, -25, 0
+Conjured Mana Cake, -27, 0
+"
+`;
